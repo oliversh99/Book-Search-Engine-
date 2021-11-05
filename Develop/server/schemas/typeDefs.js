@@ -12,10 +12,11 @@ const typeDefs = gql`
   }
 
   type User {
+    _id: ID!
     username:String!
     email:String!
     savedBooks:[Book]
-    _id: ID!
+    
   }
   type Auth{
     token:ID!

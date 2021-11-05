@@ -1,5 +1,7 @@
 # Book-Search-Engine-
 
+Refactor of a functioning Google Books API search engine built with a RESTful API to use GraphQL and Apollo. Built using the MERN stack, with a React front end, MongoDB database, and Node.js.
+
 ## User Story
 
 ```md
