@@ -4,7 +4,9 @@ Refactor of a functioning Google Books API search engine built with a RESTful AP
 
 ## Screenshot for the application
 
-![Screenshot](./Develop/Assets/screenshot.png)
+![Screenshot](./Assets/screenshot.png)
+
+
 ## User Story
 
 ```md
