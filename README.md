@@ -2,6 +2,13 @@
 
 Refactor of a functioning Google Books API search engine built with a RESTful API to use GraphQL and Apollo. Built using the MERN stack, with a React front end, MongoDB database, and Node.js.
 
+ # Deploy links
+this the linke to app to follow 
+- Deployed To Heroku URL:https://git.heroku.com/sleepy-earth-93080.git
+
+- Github URL:https://github.com/oliversh99/Book-Search-Engine-
+
+
 ## Screenshot for the application
 
 ![Screenshot](./Assets/Screenshot.png)
@@ -49,3 +56,7 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
+  
+## Questions
+If you have any questions about the repo, open an issue or contact me directly at olivcode999@gmail.com. You can find more of my work at https://github.com/oliversh99
+Contact me 
