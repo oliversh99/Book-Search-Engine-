@@ -4,7 +4,7 @@ Refactor of a functioning Google Books API search engine built with a RESTful AP
 
  # Deploy links
 this the linke to app to follow 
-- Deployed To Heroku URL:https://git.heroku.com/sleepy-earth-93080.git
+- Deployed To Heroku URL:https://sleepy-earth-93080.herokuapp.com/
 
 - Github URL:https://github.com/oliversh99/Book-Search-Engine-
 
